@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.css-1tpfp9z-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: whitesmoke !important;
+  font-weight: bold;
+}
