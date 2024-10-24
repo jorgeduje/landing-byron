@@ -5,5 +5,5 @@
 }
 .MuiButtonBase-root-MuiTab-root.Mui-selected {
   color: whitesmoke !important;
-  font-weight: bold;
+  font-weight: bold !important;
 }
