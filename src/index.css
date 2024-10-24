@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-.MuiButtonBase-root-MuiTab-root.Mui-selected {
+.Mui-selected {
   color: whitesmoke !important;
   font-weight: bold !important;
 }
